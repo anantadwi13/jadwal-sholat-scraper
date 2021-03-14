@@ -17,7 +17,7 @@ Web scraping jadwal sholat yang ditulis dalam bahasa Go. Memanfaatkan API https:
   make build
   
   # Run
-  ./build/scrapper
+  ./build/scraper
   
   # Read output
   cat ./data.json
